@@ -22,3 +22,4 @@ function prueba_fetch(){
  return "Está utilizando el git-fetch";
 }
 console.log(prueba_fetch());
+// ha funcionado gorrectamente el git-fech
