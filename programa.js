@@ -14,5 +14,11 @@ array_int.map(x => console.log(Math.pow(x, 2)));
 console.log("Creo que con este ya entendí el push");
  // la idea es un pull, ya que entendí el push
 
- // el git fech, te muestra todos lo cambios que se han realizado, pero no los combina
+ // el git fetch, te muestra todos lo cambios que se han realizado, pero no los combina
  // en cambio, el git pull, muestra y combina los cambios que se han realizado
+
+// esta linea es para probar el git fetch
+function prueba_fetch(){
+ return "Está utilizando el git-fetch";
+}
+console.log(prueba_fetch());
