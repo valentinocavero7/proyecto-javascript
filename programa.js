@@ -13,3 +13,6 @@ array_int.map(x => console.log(Math.pow(x, 2)));
 // estoy agrenado esta linea desde el github
 console.log("Creo que con este ya entendí el push");
  // la idea es un pull, ya que entendí el push
+
+ // el git fech, te muestra todos lo cambios que se han realizado, pero no los combina
+ // en cambio, el git pull, muestra y combina los cambios que se han realizado
